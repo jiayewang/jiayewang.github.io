@@ -31,7 +31,8 @@ navigation:
   - text: Home
     url: /
   - text: About
-    url: /about
+    url: /about/
+    file: about.md
   - text: Style Guide
     url: /style-guide/
   - text: Tags
